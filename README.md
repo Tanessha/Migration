@@ -1,6 +1,6 @@
 # EX No 6: MOVING FILES BETWEEN VIRTUAL MACHINES
-### NAME: suchitra nath
-### REG NO: 212223220112
+### NAME: Tanessha Kannan
+### REG NO: 212223040225
 ## Aim:
 To move the files between virtual machine.
  You can move files between virtual machines in several ways:
